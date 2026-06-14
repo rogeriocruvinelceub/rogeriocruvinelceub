@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-- [cite_start]🎓 Acadêmico do curso de **Engenharia de Software** no UniCEUB[cite: 371, 372].
+- 🎓 Acadêmico do curso de **Engenharia de Software** no UniCEUB[cite: 371, 372].
 - 🚀 Desenvolvendo bases sólidas em arquitetura de sistemas, algoritmos, metodologias ágeis e boas práticas de programação.
 - 🛠️ Utilizo o GitHub para documentar minha evolução técnica, versionar projetos práticos e aplicar conceitos de engenharia no mundo real.
 
