@@ -20,8 +20,8 @@
 | Tecnologia | Stack / Utilização |
 | :---: | :--- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" alt="Python"/> | **Python** — Desenvolvimento de scripts, lógica de programação e backend |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git"/> | [cite_start]**Git & GitHub** — Versionamento de código, ramificação (Git Flow) e cooperação [cite: 435, 436] |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL"/> | [cite_start]**Banco de Dados** — Modelagem de dados, persistência e linguagem SQL [cite: 402, 504] |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git"/> |**Git & GitHub** — Versionamento de código, ramificação (Git Flow) e cooperação  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" alt="PostgreSQL"/> | **Banco de Dados** — Modelagem de dados, persistência e linguagem SQL  |
 
 ---
 
